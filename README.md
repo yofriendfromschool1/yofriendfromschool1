@@ -1,9 +1,12 @@
+<p align="center">
+  <img src="https://socialify.git.ci/yofriendfromschool1/yofriendfromschool1/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="yofriendfromschool1" width="700" height="300" />
+</p>
 # Hello World👋! I'm yofriendfromschool1 ![](https://komarev.com/ghpvc/?username=yofriendfromschool1)
 
-<!-- <div align="center">
+ <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yofriendfromschool1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yofriendfromschool1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div> -->
+</div> 
 
 I’m a **Computer Science student**, I’ve developed strong problem-solving skills and acquired a solid foundation in software development principles. I love exploring **web design, web development, AI, automation, Reverse-engineering, networking, pen-testing, etc.**.I am always open to **learning new technologies** and collaborating on exciting projects.
 

@@ -10,7 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yofriendfromschool1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div> 
 
-I’m a **Computer Science student**, I’ve developed strong problem-solving skills and acquired a solid foundation in software development principles. I love exploring **web design, web development, AI, automation, Reverse-engineering, networking, pen-testing, etc.** .I am always open to **learning new technologies** and collaborating on exciting projects. I've installed Arch Linux, Gentoo, and Slackware.
+I’m a **Computer Science student**, I’ve developed strong problem-solving skills and acquired a solid foundation in software development principles. I love exploring **web design, web development, AI, automation, Reverse-engineering, networking, pen-testing, osint, rf, etc.** .I am always open to **learning new technologies** and collaborating on exciting projects. I've installed Arch Linux, Gentoo, and Slackware.
 
 ## 🚀 Tech Stack
 

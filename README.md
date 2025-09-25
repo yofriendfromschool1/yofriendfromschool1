@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://socialify.git.ci/yofriendfromschool1/yofriendfromschool1/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="yofriendfromschool1" width="700" height="300" />
 </p>
-## Hello World👋! I'm yofriendfromschool1
+Hello World👋! I'm yofriendfromschool1
 
 ![](https://komarev.com/ghpvc/?username=yofriendfromschool1)
 

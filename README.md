@@ -23,6 +23,8 @@ I’m a **Computer Science student**, I’ve developed strong problem-solving sk
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Assembly](https://img.shields.io/badge/-Assembly-000?&logo=assemblyscript)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=SQL)
+
 
 ## 💼 Experience & Projects
 

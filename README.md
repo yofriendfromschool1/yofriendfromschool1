@@ -11,6 +11,11 @@ Hello World👋! I'm yofriendfromschool1
 </div> 
 
 I’m a **Computer Science student**, I’ve developed strong problem-solving skills and acquired a solid foundation in software development principles. I love exploring **web design, web development, AI, automation, Reverse-engineering, networking, pen-testing, osint, rf, etc.** .I am always open to **learning new technologies** and collaborating on exciting projects. I've installed Arch Linux, Gentoo.
+If you would like to tip or donate since everything I do is free and I make zero profit. Doing it just for fun!
+https://ko-fi.com/yofriendfromschool1
+Monero: 87315N5qiXYcFNMF9V3N22a2aMZJrBAK452UVs9wj12uNbFscRzaET3Um8VF8JyCacWCqTgQseSaeYRoQUapD6g2BA4gJa8
+BTC: bc1pwyvcepa5scygmluyvxfk2smfkhsfru975y2js2yyzvegvn8p6w7qs7m0ca
+
 
 ## 🚀 Tech Stack
 
